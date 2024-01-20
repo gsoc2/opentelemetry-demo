@@ -6,6 +6,7 @@
 [![Commits](https://img.shields.io/github/commits-since/open-telemetry/opentelemetry-demo/latest?color=ff69b4&include_prereleases)](https://github.com/open-telemetry/opentelemetry-demo/graphs/commit-activity)
 [![Downloads](https://img.shields.io/docker/pulls/otel/demo)](https://hub.docker.com/r/otel/demo)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?color=red)](https://github.com/open-telemetry/opentelemetry-demo/blob/main/LICENSE)
+[![Integration Tests](https://github.com/open-telemetry/opentelemetry-demo/actions/workflows/run-integration-tests.yml/badge.svg)](https://github.com/open-telemetry/opentelemetry-demo/actions/workflows/run-integration-tests.yml)
 
 ## Welcome to the OpenTelemetry Astronomy Shop Demo
 
@@ -78,7 +79,7 @@ Monday at 8:30 AM PST and anyone is welcome.
 
 - [Austin Parker](https://github.com/austinlparker), Honeycomb
 - [Carter Socha](https://github.com/cartersocha), Lightstep
-- [Juliano Costa](https://github.com/julianocosta89), Dynatrace
+- [Juliano Costa](https://github.com/julianocosta89), Datadog
 - [Pierre Tessier](https://github.com/puckpuck), Honeycomb
 
 [Approvers](https://github.com/open-telemetry/community/blob/main/community-membership.md#approver)
